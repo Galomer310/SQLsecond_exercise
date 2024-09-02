@@ -1,0 +1,1 @@
+SELECT last_name, First_name FROM students;
